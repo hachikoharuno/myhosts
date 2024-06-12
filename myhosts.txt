@@ -1,1 +1,2 @@
-wefe
+127.0.0.1 google.com
+127.0.0.1 reddit.com
