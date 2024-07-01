@@ -1,3 +1,5 @@
 127.0.0.1 tigr1234566.github.io
 127.0.0.1 rezvorck.github.io
 127.0.0.1 ad.cub.red
+127.0.0.1 meni19.github.io
+127.0.0.1 utkacraft.ru
