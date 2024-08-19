@@ -1,2 +1,2 @@
-127.0.0.1 terabox.com
-yandex.ru
+terabox.com
+s.youtube.com
