@@ -1,7 +1,6 @@
 terabox.com
 s.youtube.com
 accscdn.m.taobao.com
-suggestqueries.google.com
 t.ly
 www.bit.ly
 bit.ly
