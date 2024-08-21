@@ -7,3 +7,4 @@ bit.ly
 ow.ly
 tinyurl.com
 encrypted-tbn0.gstatic.com
+storage.googleapis.com
