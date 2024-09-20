@@ -12,3 +12,5 @@ storage.googleapis.com
 ya.ru
 t.me
 rutracker.org
+vk.com
+yandex.ru
