@@ -17,3 +17,5 @@ yandex.ru
 api.vk.com
 oauth.vk.com
 queuev4.vk.com
+m.vk.com
+boards.4chan.org
