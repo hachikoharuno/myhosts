@@ -20,3 +20,5 @@ queuev4.vk.com
 m.vk.com
 boards.4chan.org
 ae01.alicdn.com
+avito.ru
+www.avito.ru
