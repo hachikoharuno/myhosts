@@ -3,7 +3,6 @@
 127.0.0.1 ad.cub.red
 127.0.0.1 meni19.github.io
 127.0.0.1 utkacraft.ru
-127.0.0.1 yandex.ru
 127.0.0.1 us.galleryapi.micloud.xiaomi.net
 127.0.0.1 stats.habr.com
 127.0.0.1 mtalk.google.com
