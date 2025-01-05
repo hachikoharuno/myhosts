@@ -9,7 +9,6 @@ ow.ly
 tinyurl.com
 encrypted-tbn0.gstatic.com
 storage.googleapis.com
-ya.ru
 t.me
 rutracker.org
 vk.com
@@ -28,3 +27,8 @@ yandex.ru
 dropbox.com
 www.hermantheshocker.com
 socket.avito.ru
+ya.ru
+spb.ru
+pochta.ru
+levada.ru
+lenta.ru
